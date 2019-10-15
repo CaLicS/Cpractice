@@ -6,7 +6,7 @@ int main(void)
 
 	printf("2개의 실수를 입력하시오 : ");
 	scanf("%lf %lf", &x, &y);
-	printf("합의 정수부 = %d", (int)x + (int)y);
+	printf("합의 정수부 = %d", ((int)(x+y)));
 
 	return 0;
 }
