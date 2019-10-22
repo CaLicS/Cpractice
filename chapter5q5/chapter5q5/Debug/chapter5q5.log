@@ -1,0 +1,4 @@
+﻿  source.c
+d:\allfiles\programs\c\kunsan\cpractice\chapter5q5\chapter5q5\source.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  chapter5q5.vcxproj -> D:\ALLFILES\Programs\c\kunsan\cpractice\chapter5q5\Debug\chapter5q5.exe
